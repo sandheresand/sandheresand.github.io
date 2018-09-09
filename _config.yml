@@ -1,5 +1,5 @@
 # Site Build Settings
-url: "sandheresand.github.io"
+url: "http://sandheresand.github.io"
 
 # jekyll-paginate configuration
 paginate:            5
