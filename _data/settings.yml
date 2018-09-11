@@ -5,13 +5,22 @@ disqus:
 
 google-ID: 'UA-112060364-2'
 
+#menu:
+#- {name: '投资理财', folder: 'pages', file: 'facts.html'}
+#- {name: '生活记录', folder: 'pages', file: 'resources.html'}
+#- {name: '产品设计', folder: 'pages', file: 'sample-posts.html'}
+#- {name: '编程技术', folder: 'pages', file: 'documentation.html'}
+#- {name: '关于我', folder: 'pages', file: 'about.html'}
+#- {name: '联系我', folder: 'pages', file: 'contact.html'}
+
 menu:
-- {name: '投资理财', folder: 'pages', file: 'facts.html'}
-- {name: '生活记录', folder: 'pages', file: 'resources.html'}
-- {name: '产品设计', folder: 'pages', file: 'sample-posts.html'}
-- {name: '编程技术', folder: 'pages', file: 'documentation.html'}
+- {name: '投资理财', folder: 'pages', file: 'finance.html'}
+- {name: '生活记录', folder: 'pages', file: 'life.html'}
+- {name: '产品设计', folder: 'pages', file: 'product.html'}
+- {name: '编程技术', folder: 'pages', file: 'programming.html'}
 - {name: '关于我', folder: 'pages', file: 'about.html'}
 - {name: '联系我', folder: 'pages', file: 'contact.html'}
+
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
