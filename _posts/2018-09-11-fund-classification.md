@@ -7,10 +7,6 @@ tags: [sample]
 image: fund_classification.jpg
 ---
 
-<<<<<<< HEAD
-# 基金是如何分类的？
-=======
->>>>>>> bf5064dac0952594883d3c72a6353af40c4aebeb
 
 ## 用途分类：
 - 证券投资基金

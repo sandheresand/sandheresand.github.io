@@ -5,7 +5,7 @@ date: "2018-09-12 19:48"
 author: "sand"
 categories: "finance"
 tags: [sample]
-image: cuba-4.jpg
+image: finance-company.jpg
 ---
 
 [天天基金网][5f044a6e]上可看到，目前在国内，市面上总共有136家基金公司。<br>
