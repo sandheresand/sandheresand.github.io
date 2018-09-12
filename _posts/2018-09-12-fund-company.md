@@ -12,6 +12,8 @@ image: fund-company.jpg
 
 <br>且天天基金网对这136家基金公司根据管理的基金规模进行了排名，我们经常在各大基金app（蚂蚁财富、蛋卷、天天基金网）上看到很排行榜前几位的熟悉鸡影。
 
+![fundrank](images/2018/09/fundrank.png)
+
 <br>我们重点来认识下排行前10的基金公司在2018年第2季度的情况
 1. 天弘基金
 <br>  **管理规模**：17399.46亿元
@@ -74,7 +76,7 @@ image: fund-company.jpg
 
 
 
-![fundrank](images/2018/09/fundrank.png)
+
 
 
   [5f044a6e]: http://fund.eastmoney.com/company/default.html "天天基金网"
