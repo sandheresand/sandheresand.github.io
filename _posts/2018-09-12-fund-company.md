@@ -1,8 +1,8 @@
 ---
-layout: "post"
+layout: post
 title: "认识下国内的基金公司"
 author: "sand"
-categories: "finance"
+categories: finance 
 tags: [sample]
 image: fund_company.jpg
 ---
