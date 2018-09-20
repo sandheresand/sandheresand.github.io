@@ -1,3 +1,18 @@
+---
+layout: post
+title: "门票股怎么选择？"
+author: "sand"
+categories: finance
+tags: [finance,sample]
+image: ticket_stock.jpg
+---
+
+
+
+
+
+
+
 今天在集思路上看到一个 **门票股** 列表，对于股票没什么概念和知识的我，想弄清楚下这是什么？
 
 [![Screenshot_2018-09-20-20-38-07-856.png](https://i.postimg.cc/BbBKyyxF/Screenshot_2018-09-20-20-38-07-856.png)](https://postimg.cc/JHt0HpY7)
